@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nithyashreegm
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently persuing my B.E degree 
+- 🌱 I’m currently pursuing my B.E degree 
 - 📫 How to reach me : nithyashreegm8418@gmail.com
 
 <!---
